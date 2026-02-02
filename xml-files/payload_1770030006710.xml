@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Root>
+  <machineId>MC-101</machineId>
+  <timestamp>2026-02-02T14:30:00Z</timestamp>
+  <metrics>
+    <temperature>32.5</temperature>
+    <voltage>234</voltage>
+    <current>19.2</current>
+  </metrics>
+  <status>ACTIVE</status>
+</Root>
