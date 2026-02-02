@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Root>
+  <request_payload>
+    <Transaction>
+      <Order>1003445</Order>
+      <Plant>0001</Plant>
+      <TransType>ORDER_ACTIVITY</TransType>
+    </Transaction>
+  </request_payload>
+</Root>
